@@ -1,2 +1,3 @@
 # ContaBanco
 V1.3
+Falta resolver exceptions...
